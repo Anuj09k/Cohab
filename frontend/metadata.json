@@ -1,0 +1,7 @@
+{
+  "name": "Cohab - Premium Roommate & Flat Matching",
+  "description": "Cohab: Award-winning cross-platform roommate discovery with smart compatibility ranking, in-chat safe meetup scheduler with emergency contacts & check-in cards, dietary/kitchen utensils preferences (Veg/Eggetarian/Non-Veg/Jain), one-click PDF generation & direct download, interactive onboarding, real-time safety center, rent calculator, and video tours.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
